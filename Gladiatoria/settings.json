@@ -1,0 +1,10 @@
+{
+	"CountriesFlags" : "../../Images/CountriesFlags",
+	"CountriesData"  : "../../DB/countries.json",
+	"ClubsLogos"     : "../../Images/ClubsLogos",
+	"ClubsData"      : "../../DB/clubs.json",
+	"FightersPhotos" : "../../Images/Fighters",
+	"FightersData"   : "../../DB/fighters.json",
+	"Tournires"		 : "../../Tournires/",
+	"TournirTemplate" : "tournir_template.json"
+}
